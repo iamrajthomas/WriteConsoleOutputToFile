@@ -1,0 +1,13 @@
+C:\Users\c-rajesh.thomas\source\repos\WriteConsoleOutputToFile\WriteConsoleOutputToFile\bin\Debug\WriteConsoleOutputToFile.exe.config
+C:\Users\c-rajesh.thomas\source\repos\WriteConsoleOutputToFile\WriteConsoleOutputToFile\bin\Debug\WriteConsoleOutputToFile.exe
+C:\Users\c-rajesh.thomas\source\repos\WriteConsoleOutputToFile\WriteConsoleOutputToFile\bin\Debug\WriteConsoleOutputToFile.pdb
+C:\Users\c-rajesh.thomas\source\repos\WriteConsoleOutputToFile\WriteConsoleOutputToFile\obj\Debug\WriteConsoleOutputToFile.csprojAssemblyReference.cache
+C:\Users\c-rajesh.thomas\source\repos\WriteConsoleOutputToFile\WriteConsoleOutputToFile\obj\Debug\WriteConsoleOutputToFile.csproj.CoreCompileInputs.cache
+C:\Users\c-rajesh.thomas\source\repos\WriteConsoleOutputToFile\WriteConsoleOutputToFile\obj\Debug\WriteConsoleOutputToFile.exe
+C:\Users\c-rajesh.thomas\source\repos\WriteConsoleOutputToFile\WriteConsoleOutputToFile\obj\Debug\WriteConsoleOutputToFile.pdb
+C:\TFS\RT_AllData\source\repos\WriteConsoleOutputToFile\WriteConsoleOutputToFile\bin\Debug\WriteConsoleOutputToFile.exe.config
+C:\TFS\RT_AllData\source\repos\WriteConsoleOutputToFile\WriteConsoleOutputToFile\bin\Debug\WriteConsoleOutputToFile.exe
+C:\TFS\RT_AllData\source\repos\WriteConsoleOutputToFile\WriteConsoleOutputToFile\bin\Debug\WriteConsoleOutputToFile.pdb
+C:\TFS\RT_AllData\source\repos\WriteConsoleOutputToFile\WriteConsoleOutputToFile\obj\Debug\WriteConsoleOutputToFile.csproj.CoreCompileInputs.cache
+C:\TFS\RT_AllData\source\repos\WriteConsoleOutputToFile\WriteConsoleOutputToFile\obj\Debug\WriteConsoleOutputToFile.exe
+C:\TFS\RT_AllData\source\repos\WriteConsoleOutputToFile\WriteConsoleOutputToFile\obj\Debug\WriteConsoleOutputToFile.pdb
