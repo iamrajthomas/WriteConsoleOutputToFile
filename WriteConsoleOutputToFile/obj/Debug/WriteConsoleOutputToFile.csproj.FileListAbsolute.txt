@@ -11,3 +11,4 @@ C:\TFS\RT_AllData\source\repos\WriteConsoleOutputToFile\WriteConsoleOutputToFile
 C:\TFS\RT_AllData\source\repos\WriteConsoleOutputToFile\WriteConsoleOutputToFile\obj\Debug\WriteConsoleOutputToFile.csproj.CoreCompileInputs.cache
 C:\TFS\RT_AllData\source\repos\WriteConsoleOutputToFile\WriteConsoleOutputToFile\obj\Debug\WriteConsoleOutputToFile.exe
 C:\TFS\RT_AllData\source\repos\WriteConsoleOutputToFile\WriteConsoleOutputToFile\obj\Debug\WriteConsoleOutputToFile.pdb
+C:\TFS\RT_AllData\source\repos\WriteConsoleOutputToFile\WriteConsoleOutputToFile\obj\Debug\WriteConsoleOutputToFile.csprojAssemblyReference.cache
